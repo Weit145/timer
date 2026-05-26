@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Таймер выключения
+Comment=Выключение ноутбука по таймеру
+Exec=/home/weit/Документы/timer/dist/shutdown-timer
+Terminal=false
+Categories=Utility;
+StartupNotify=true
